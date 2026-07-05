@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0267_000.yaml, hash: 'sha256:dce223411c175aad0b5bd19760c4fb47ce76ddee0a2a74a276d437ec828f834c'}
-  - {seq: 1, filename: KR6q0267_001.yaml, hash: 'sha256:b3ce9ddd18bf2d2ca87f086b3d9302a20fc1e6fd9e6495ef21f47bbf6d48b59d'}
+  - {seq: 1, filename: KR6q0267_001.yaml, hash: 'sha256:bd8f14fcdb07e7d64176f2fdd376f302967d023572bd2666e36dec8e8731bce7'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0267_001.markers.yaml, hash: 'sha256:18539e673df4e21f49400a9c791af0a46ed4b224dda1d7a70e82fd4dc193fc86'}
+  - {seq: 0, role: markers, filename: assets/KR6q0267_000.markers.yaml, hash: 'sha256:91afeee554ed8fdcc80d4c91788653663f43813cc564459f122ef99e251f01ce'}
+  - {seq: 1, role: markers, filename: assets/KR6q0267_001.markers.yaml, hash: 'sha256:13ffb8c9f1b9b0018ab4ef0a6e79b6ac49569fdb5dc23f1ce445e0641cdd5810'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 江西馬祖道一禪師語錄
   type: juan
   level: 1
-hash: sha256:d5ac03e25c2ff39a9e57a32a77bddf6ad203c2b7f8823f32643dacf44eaa58c1
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:81b5e8c347ff8d2547155bfd1f9fc228dc561ff625e1af283903329c7884376a
