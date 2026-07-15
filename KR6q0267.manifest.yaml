@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0267/v1
 canonical_location: https://kanripo.org/bkk/KR6q0267/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 馬祖道一禪師廣錄（四家語錄卷一）
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0267_000.yaml, hash: 'sha256:dce223411c175aad0b5bd19760c4fb47ce76ddee0a2a74a276d437ec828f834c'}
-  - {seq: 1, filename: KR6q0267_001.yaml, hash: 'sha256:bd8f14fcdb07e7d64176f2fdd376f302967d023572bd2666e36dec8e8731bce7'}
+  - {seq: 1, filename: KR6q0267_001.yaml, hash: 'sha256:a8a6734e792e8bc0b2b4d309ae1843d588fe8d3a26f41acbf3b233ed6e82247a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0267_000.markers.yaml, hash: 'sha256:91afeee554ed8fdcc80d4c91788653663f43813cc564459f122ef99e251f01ce'}
-  - {seq: 1, role: markers, filename: assets/KR6q0267_001.markers.yaml, hash: 'sha256:13ffb8c9f1b9b0018ab4ef0a6e79b6ac49569fdb5dc23f1ce445e0641cdd5810'}
+  - {seq: 1, role: markers, filename: assets/KR6q0267_001.markers.yaml, hash: 'sha256:75ec940b8a76bb1fcc3f5f6ad86006caf4383b76c7370a7bbd19a44922faf1c0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 江西馬祖道一禪師語錄
   type: juan
   level: 1
-hash: sha256:81b5e8c347ff8d2547155bfd1f9fc228dc561ff625e1af283903329c7884376a
+hash: sha256:f33486945425a8ac24d2c4135e125c52974ec5207cf07616bfb268e3198434e7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
